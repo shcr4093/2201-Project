@@ -17,10 +17,13 @@ The 3 csv's (regular1,2,and 3) were loaded into the file and were merged into on
 The "regulartotals" csv contains win loss data that isn't present in the new merged stats dataset. The two data sets will be merged on the season year, game id, and team id columns. The columns names were changed to lowercase so both files are the same for merging
 
 ##  **Cleaning**
-**DeMar DeRozan and Kawhi Leonard**
+**DeMar DeRozan ↔ Kawhi Leonard (2018)**
 
 This analysis will explore the points per game and plus minus for each player before and after the trade. Additionally, win percentage and () will be analyszed for each of the teams involved from before and after the trade.
 
 After all the data sets were merged, the new full data set was filtered by setting a variable that contains DeMar DeRozan and Kawhi Leonard.
 Afterwards the full data set was aggregated by player and season, calculating total games played, total points scored, and average plus-minus points. Average plus minus and ppg were calculated by standard methods and a new column was created to add the points per game. The charts were created by specifying the time periods that are before and after the trade. After all new data is collected the chart for each player was made. For the team performance, the year , team tri code (LAL, SAS, OKC, etc) and other relvant stats were filtered. .drop duplicates was used otherwise each player on a teams roster would contribute a W per real team win. There should only be 82 games total for each team. After the data was filtered, both charts were created.
 
+**Shai Gilgeous-Alexander ↔ Paul George (2019)**
+
+This analysis will explore the points per game and plus minus for each player before and after the trade. Additionally, win percentage and () will be analyszed for each of the teams involved from before and after the trade.
