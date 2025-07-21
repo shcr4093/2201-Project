@@ -26,4 +26,4 @@ Afterwards the full data set was aggregated by player and season, calculating to
 
 **Shai Gilgeous-Alexander ↔ Paul George (2019)**
 
-This analysis will explore the points per game and plus minus for each player before and after the trade. Additionally, win percentage and () will be analyszed for each of the teams involved from before and after the trade.
+The same process above was used to filter and create the visualizations for this trade
