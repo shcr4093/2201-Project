@@ -5,7 +5,7 @@ This project analyzes the short-term and long-term effects of two major NBA trad
 1. **DeMar DeRozan ↔ Kawhi Leonard (2018)**
 2. **Shai Gilgeous-Alexander ↔ Paul George (2019)**
 
-##Objective
+## 📊 **OBJECTIVE**
 Using Python and popular data science libraries, the analysis focuses on how each player perfromed post trade as well as their respecitve teams.
 
 The goal is to tell a data-driven story through clear visuals and well-organized insights that reveal how trades effect franchises
