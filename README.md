@@ -7,8 +7,10 @@ This project analyzes the short-term and long-term effects of two major NBA trad
 
 ##  **OBJECTIVE**
 Using Python and popular data science libraries, the analysis focuses on how each player perfromed post trade as well as their respecitve teams.
-
 The goal is to tell a data-driven story through clear visuals and well-organized insights that reveal how trades effect franchises
+
+##  **Data Sources**
+For this project, the data sets that will be used are from Kaggle. There are 4 total data pieces, all of which are csv files. Three of the files are individual player stats for specific game ids throughout 2010-2024. Some metrics included are points scored, plus minus, rebounds, shots taken, 3 point percentage, etc. The fourth data piece includes the same unique game ids except this one contains stats for the teams themselves instead of the individual level. This analysis will look specifically at performance metrics (ppg, plus minus, win percentage) to understand how the trades effected each team.
 
 ##  **Merging**
 The 3 csv's (regular1,2,and 3) were loaded into the file and were merged into one data set for simplicity. This merged dataset is called stats
