@@ -12,6 +12,7 @@ The goal is to tell a data-driven story through clear visuals and well-organized
 ##  **Data Sources**
 **Link To Source**
 https://github.com/NocturneBear/NBA-Data-2010-2024?tab=readme-ov-file
+
 The data used is found in this github repository. It contains 3 csv files with compregneisve NBA data that covers 2010-2014 at the individual level. It provides many useful and unique performance metrics for player. Some metrics included are points scored, minutes, free throw percentage, three point percentage, assists, steals, plus minus, blocks, etc. Thee 4th csv file contains the same dimensions but aggregated per team.
 
 ##  **Merging**
