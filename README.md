@@ -8,7 +8,7 @@ This project analyzes the short-term and long-term effects of two major NBA trad
 ## **Sources**
 https://github.com/NocturneBear/NBA-Data-2010-2024?tab=readme-ov-file
 
-##  **OBJECTIVE**
+##  **Objective**
 Using Python and popular data science libraries, the analysis focuses on how each player perfromed post trade as well as their respecitve teams.
 The goal is to tell a data-driven story through clear visuals and well-organized insights that reveal how trades effect franchises
 
