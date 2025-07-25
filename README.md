@@ -32,19 +32,21 @@ The same process above was used to filter and create the visualizations for this
 
 ##  **Visualizations**
 **DeMar DeRozan ↔ Kawhi Leonard (2018)**
-The average plus minus data before and after the trade highlights a more significant insight. Both Kawhi Leonard and DeMar DeRozan saw a noticeable decline in their average plus-minus after the trade. For Kawhi, the decline was moderate, but DeRozan’s drop was substantial. This implies that while DeRozan maintained or even improved his scoring output, his on court impact on team success was diminished in San Antonio compared to Toronto. It shows that high individual scoring doesn’t always equate to better team performance
+The average plus minus data before and after the trade highlights a more significant insight. Both Kawhi Leonard and DeMar DeRozan saw a noticeable decline in their average plus-minus after the trade. For Kawhi, the decline was moderate, but DeRozan’s drop was substantial. This implies that while DeRozan maintained or even improved his scoring output, his on court impact on team success was diminished in San Antonio compared to Toronto. It shows that high individual scoring doesn’t always equate to better team performance.
+
+![DeMar DeRozan ↔ Kawhi Leonard (2018)](https://github.com/shcr4093/2201-Project/blob/main/Cleaned%20Data/Trade%201%20Players.png)
+![DeMar DeRozan ↔ Kawhi Leonard (2018)](https://github.com/shcr4093/2201-Project/blob/main/Cleaned%20Data/Trade%201%20players%202.png)
 
 **Shai Gilgeous-Alexander ↔ Paul George (2019)**
 The plus minus trends following the trade between the Clippers and Thunder reveal a deeper narrative beyond surface level stats. Shai Gilgeous-Alexander, initially viewed as a developing young guard, showed significant growth in his impact on team performance after moving to Oklahoma City. His shift from a slightly negative plus-minus to a clearly positive one suggests he not only adapted but thrived in a larger role. Paul George experienced a slight decline in plus minus despite remaining a high level performer in Los Angeles. This may reflect the challenges of fitting into a superstar duo system alongside another dominant player, or the pressure of playing for a contender with championship expectations.
+
+![Shai Gilgeous-Alexander ↔ Paul George (2019)](https://github.com/shcr4093/2201-Project/blob/main/Cleaned%20Data/trade%202%20players.png)
+![Shai Gilgeous-Alexander ↔ Paul George (2019)](https://github.com/shcr4093/2201-Project/blob/main/Cleaned%20Data/trade%202%20players%202.png)
 
 **Teams Win Loss**
 The Toronto Raptors saw a -1.69% decrease in wins during the season following the trade with San Antonio. The San Antonia Spurs saw a +2.13% increase in wins following the same trade. 
 The Okloahom City Thunder saw a -10.2% decrease in wins during the season folliwing the trade with Los Angeles. The Los Angeles Clippers saw a +2.1% incrase in wins following the same trade.
 
-![DeMar DeRozan ↔ Kawhi Leonard (2018)](https://github.com/shcr4093/2201-Project/blob/main/Cleaned%20Data/Trade%201%20Players.png)
-![DeMar DeRozan ↔ Kawhi Leonard (2018)](https://github.com/shcr4093/2201-Project/blob/main/Cleaned%20Data/Trade%201%20players%202.png)
-![Shai Gilgeous-Alexander ↔ Paul George (2019)](https://github.com/shcr4093/2201-Project/blob/main/Cleaned%20Data/trade%202%20players.png)
-![Shai Gilgeous-Alexander ↔ Paul George (2019)](https://github.com/shcr4093/2201-Project/blob/main/Cleaned%20Data/trade%202%20players%202.png)
 ![Teams Win Loss](https://github.com/shcr4093/2201-Project/blob/main/Cleaned%20Data/Tor%20win%20loss.png)
 
 ##  **Insight**
