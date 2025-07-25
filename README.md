@@ -41,9 +41,11 @@ The plus minus trends following the trade between the Clippers and Thunder revea
 The Toronto Raptors saw a -1.69% decrease in wins during the season following the trade with San Antonio. The San Antonia Spurs saw a +2.13% increase in wins following the same trade. 
 The Okloahom City Thunder saw a -10.2% decrease in wins during the season folliwing the trade with Los Angeles. The Los Angeles Clippers saw a +2.1% incrase in wins following the same trade.
 
-![DeMar DeRozan ↔ Kawhi Leonard (2018)]("C:\Users\crawf\OneDrive\Documents\GitHub\2201-Project\Cleaned Data\Trade 1 players 2.png")
-![Shai Gilgeous-Alexander ↔ Paul George (2019)](https://raw.githubusercontent.com/username/repo/main/images/plot1.png)
-![Teams Win Loss](https://raw.githubusercontent.com/username/repo/main/images/plot1.png)
+![DeMar DeRozan ↔ Kawhi Leonard (2018)](https://github.com/shcr4093/2201-Project/blob/main/Cleaned%20Data/Trade%201%20Players.png)
+![DeMar DeRozan ↔ Kawhi Leonard (2018)](https://github.com/shcr4093/2201-Project/blob/main/Cleaned%20Data/Trade%201%20players%202.png)
+![Shai Gilgeous-Alexander ↔ Paul George (2019)](https://github.com/shcr4093/2201-Project/blob/main/Cleaned%20Data/trade%202%20players.png)
+![Shai Gilgeous-Alexander ↔ Paul George (2019)](https://github.com/shcr4093/2201-Project/blob/main/Cleaned%20Data/trade%202%20players%202.png)
+![Teams Win Loss](https://github.com/shcr4093/2201-Project/blob/main/Cleaned%20Data/Tor%20win%20loss.png)
 
 ##  **Insight**
 The DeRozan Kawhi trade showed that while both players continued to be productive scorers, their overall impact on team success shifted. Kawhi helped Toronto reach a championship level, while DeRozan’s influence on wins declined despite similar or better scoring numbers.
